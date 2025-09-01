@@ -65,9 +65,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Library Project\Library Project.csproj">
+    <ProjectReference Include="..\Library Project\DatabaseLibrary.csproj">
       <Project>{3959bc80-6660-4e7b-ac12-324e1d0041d7}</Project>
-      <Name>Library Project</Name>
+      <Name>DatabaseLibrary</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

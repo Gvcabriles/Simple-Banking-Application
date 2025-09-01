@@ -19,6 +19,10 @@
         <TextBlock HorizontalAlignment="Left" Height="18" Margin="204,346,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="88"><Run Language="en-au" Text="Total Accounts:"/></TextBlock>
         <TextBlock HorizontalAlignment="Left" Height="19" Margin="204,288,0,0" TextWrapping="Wrap" Text="Index Number:" VerticalAlignment="Top" Width="88"/>
         <TextBlock HorizontalAlignment="Left" Margin="179,48,0,0" TextWrapping="Wrap" Text="First Name:" VerticalAlignment="Top" Height="21"/>
+        <TextBlock HorizontalAlignment="Left" Margin="180,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="21"><Run Language="en-au" Text="Last"/><Run Text=" Name:"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="171,100,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="21"><Run Language="en-au" Text="Account No.:"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="220,126,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="21"><Run Language="en-au" Text="Pin"/><Run Text=":"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="195,152,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="21"><Run Language="en-au" Text="Balance"/><Run Text=":"/></TextBlock>
 
     </Grid>
 </Window>

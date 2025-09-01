@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36327.8 d17.14
+VisualStudioVersion = 17.14.36327.8
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library Project", "Library Project\Library Project.csproj", "{3959BC80-6660-4E7B-AC12-324E1D0041D7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseLibrary", "Library Project\DatabaseLibrary.csproj", "{3959BC80-6660-4E7B-AC12-324E1D0041D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{9B841BBF-895A-4E66-921A-11ADF810F524}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataServer", "ConsoleApp\DataServer.csproj", "{9B841BBF-895A-4E66-921A-11ADF810F524}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{16201C1C-0A68-417D-BBE6-0559EB7B0746}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFApp", "WpfApp1\WPFApp.csproj", "{16201C1C-0A68-417D-BBE6-0559EB7B0746}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
